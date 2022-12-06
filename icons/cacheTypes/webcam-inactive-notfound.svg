@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#AFADAC;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#FF332E;}
+</style>
+<g id="deaktiviert_mit_Ecke">
+	<path class="st0" d="M16,32H6c-3.3,0-6-2.7-6-6V6c0-3.3,2.7-6,6-6h20c3.3,0,6,2.7,6,6v10L16,32z"/>
+</g>
+<g id="Layer_2">
+	<path class="st1" d="M14.8,23.3v2.5h-3.7v2.5h9.8v-2.5h-3.7v-2.5c5.4-0.7,9.2-5.6,8.5-11s-5.6-9.2-11-8.5s-9.2,5.6-8.5,11
+		C6.8,19.2,10.3,22.7,14.8,23.3z M16,8.6c2.7,0,4.9,2.2,4.9,4.9s-2.2,4.9-4.9,4.9s-4.9-2.2-4.9-4.9l0,0C11.1,10.8,13.3,8.7,16,8.6z"
+		/>
+	<circle class="st1" cx="16" cy="13.6" r="2.5"/>
+</g>
+<g id="Ecke">
+	<path class="st1" d="M16,16v16h10c3.3,0,6-2.7,6-6V16H16z"/>
+</g>
+<polygon class="st2" points="24,19.4 18.8,28.4 29.2,28.4 "/>
+</svg>
