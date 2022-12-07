@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="Ebene_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 15"><defs><style>.cls-1{fill:#fbae5a;}</style></defs><g id="Ebene_1-2"><g id="Ebene_2-2"><g id="Ebene_2-2"><path class="cls-1" d="M0,0V15H12V0H0ZM10,10H2v-1H10v1Zm0-3H2v-1H10v1Zm0-3H2v-1H10v1Z"/></g></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 15"><path d="M0 0v15h12V0H0Zm10 10H2V9h8v1Zm0-3H2V6h8v1Zm0-3H2V3h8v1Z" style="fill:#fbae5a"/></svg>
